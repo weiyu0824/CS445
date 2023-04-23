@@ -24,7 +24,3 @@ The seam carving code is adapted from https://github.com/andrewdcampbell/seam-ca
 ```
 python3 seam_carving.py -body -vis -im images/bikini/bikini.jpg -out bikini_thin.jpg -bmask images/bikini/bikini_mask_2.jpg -mask images/bikini/bikini_mask_1.jpg -dx -30
 ```
-
-## Methods
-
-
